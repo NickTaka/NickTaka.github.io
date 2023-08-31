@@ -14,11 +14,11 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "AI development" },
+    { "name": "Data Science" },
+    { "name": "Astrophysics (Galaxies and Cosmology)" },
+    { "name": "Gaming" },
+    { "name": "Hiking" }
   ],
   "skills": [
     {
