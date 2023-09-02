@@ -17,9 +17,12 @@ Garden Glory is an SQL database created through the Spring semester of 2023 with
 
 <pre>
 
-  This project both served as an introduction into the SQL system and web based development sites such as cpanel which worked hand in hand with SQL integration for creating a database. 
+  This project both served as an introduction into the SQL system and web based development sites 
+  such as cpanel which worked hand in hand with SQL integration for creating a database. 
 
-  Throughout the semester we slowly created more fucnctions while adding primary and alternative keys to designate searching values within the system. The data used to implement into the system were given by the intructor and was slowly applied as each of our functions grew. 
+  Throughout the semester we slowly created more fucnctions while adding primary and alternative keys 
+  to designate searching values within the system. The data used to implement into the system were 
+  given by the intructor and was slowly applied as each of our functions grew. 
   
 </pre>
 
