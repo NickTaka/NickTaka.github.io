@@ -18,6 +18,7 @@ It incorperates the UH system and brings togther musically inclined people to cr
 
 <pre>
 
+
   In this project I worked together with fellow CS students to create a system that would 
   register students or faculty of the UH campuses allow them ways to share not only what instruments 
   they played but also a chat and invite service that would enable them to connect should they 
