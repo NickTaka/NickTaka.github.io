@@ -11,11 +11,7 @@ labels:
 summary: "A Group Project Created for ICS 427"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
-
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
+Campus Jampus was created with 2 fellow computer science students during the summer of 2023. It incorperates the UH system and brings togther musically inclined people to create a site which makes it easy to connect with those that would like to play music together. 
 
 <hr>
 
