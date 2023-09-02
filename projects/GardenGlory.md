@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/GardenGlorySquare.png
 title: "Garden Glory"
 date: 2023
 published: true
