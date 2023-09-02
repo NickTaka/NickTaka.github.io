@@ -11,25 +11,12 @@ labels:
 summary: "A Database Created through lessons in ICS 321"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
-
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
+Garden Glory is an SQL database created through the Spring semester of 2023 with the ICS 321 course under Richard Halverson. 
 
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
 
 look
 The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
