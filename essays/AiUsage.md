@@ -13,33 +13,60 @@ labels:
 
   Looking back on my personal use for AI within ICS 314, there have been many cases where I had asked for its assistance when coding:
 
-(1.) Experience WODs e.g. E18 \n
-No usage of AI, if I ever needed assistance I would turn to the provided tutorials or ask my classmates. \n
-In-class Practice WODs
+1. Experience WODs e.g. E18
+   
+No usage of AI, if I ever needed assistance I would turn to the provided tutorials or ask my classmates.
+
+2. In-class Practice WODs
+   
 Would occasionally use it for coding assistance, but I felt like the practice WODs are more useful if I attempt them without AI help. 
-In-class WODs
+
+3. In-class WODs
+   
 I did in fact use ChatGPT to assist me with these WODs. However, since most of front end coding is based on artistic vision, there were many cases where the given code from ChatGPT would not be applicable with what was described for the desired end product in the WOD. Thus, I would have to deviate from the suggested code from the AI.   An example of usage during a WOD would be giving the AI context for the website and what I’m trying to implement then asking “How would I implement a navbar that has [...] options on the left side and […] options on the right.” 
-Essays
+
+4. Essays
+
 The essays did not have any ChatGPT influence as many of the topics that we would have to write about depended on our own experiences within the course. 
-Final project
+
+5. Final project
+   
 I have yet to use AI coding for the final project but if something comes up that I find myself stuck at I might turn to ChatGPT for troubleshooting purposes.
-Learning a concept / tutorial
+
+6. Learning a concept / tutorial
+
 Not within this course but I have definitely used AI as a starting point to learn a new concept, and used it to guide me for further google searches. I will get into this at a later part in this essay.  
-Answering a question in class or in Discord
+
+7. Answering a question in class or in Discord
+
 No have not used AI for either of these, I feel like those questions should be answered from personal experience.
-Asking or answering a smart-question
+
+8. Asking or answering a smart-question
+
 Likewise with #7, these should be answered by someone who personally fixed the issue. Otherwise they could just utilize ChatGPT themselves. 
-Coding example e.g. “give an example of using Underscore .pluck”
+
+9. Coding example e.g. “give an example of using Underscore .pluck”
+
 I rarely used ChatGPT for this as the material we were provided in the course was often sufficient in teaching how to use new programs and packages. 
-Explaining code
+
+10. Explaining code
+
 Yes I have used ChatGPT many times within this course and outside of this course to explain code, often when things were not working as intended. There have even been instances where the code works perfectly fine but I still ask ChatGPT to explain why as to gain a better understanding of how the program works. An example of this would be “Can you explain why this component ends up underneath my image even though I tell it to show on the right? *copy paste code*”
-Writing code
+
+11. Writing code
+
 I have also used ChatGPT for writing code. As for 314, which focuses on the front end, I have found ChatGPT useful for laying down the foundations of the pages I am creating. Afterwards I go in and make edits to the features of the page such as width of a component or spacing of some buttons. An example of this would be “I am trying to create a submit button in the footer of my page. I would like there to be a text box with some default text ‘Enter email…’ that clears once a user starts writing in the box. Can you tell me how to add this to my page?”
-Documenting code
+
+12. Documenting code
+
 I have not really used ChatGPT for documentation. I feel like it makes more sense to do that as an individual. 
-Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+
+13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+
 Errors or ESLint tends to give enough explanation as to why those errors are occurring. However AI tends to be useful for other coding instances where the errors are a bit more ambiguous.
-Other uses in ICS 314 not listed
+
+14. Other uses in ICS 314 not listed
+    
 Not really any outside usages besides the ones listed for ICS 314. 
 
   When it comes to my impact on learning and understanding, there definitely are pluses and minus when it comes to AI. When I want to have a better understanding of “why” something works or “how” something functions, ChatGPT has proven to be exceedingly useful for this compared to random forums online such as stack overflow as those have varying levels of usefulness when applying to one’s own code. However, when it comes to actually creating something myself from scratch, ChatGPT has made me lazy to the point where I struggle to recall if the base format for my code is fine. So in terms of coding “skill” I have weakened when using AI, but my understanding has increased.
