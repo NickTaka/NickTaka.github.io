@@ -13,8 +13,8 @@ labels:
 
   Looking back on my personal use for AI within ICS 314, there have been many cases where I had asked for its assistance when coding:
 
-Experience WODs e.g. E18
-No usage of AI, if I ever needed assistance I would turn to the provided tutorials or ask my classmates. 
+(1.) Experience WODs e.g. E18 \n
+No usage of AI, if I ever needed assistance I would turn to the provided tutorials or ask my classmates. \n
 In-class Practice WODs
 Would occasionally use it for coding assistance, but I felt like the practice WODs are more useful if I attempt them without AI help. 
 In-class WODs
