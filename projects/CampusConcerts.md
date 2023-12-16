@@ -33,7 +33,7 @@ It incorperates the UH system and brings togther musically inclined people to cr
   clickable logo just routes to the homepage if the user is logged in. So I changed it to that.
 
   <div class="text-center p-4">
-  <img width="200px" 
+  <img width="850px" 
        src="../img/BrowseProf.png" >
 </div>
 
