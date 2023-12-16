@@ -4,7 +4,7 @@ type: project
 image: img/CamJamSquare.png
 title: "Campus Jampus"
 date: 2023
-published: true
+published: false
 labels:
   - JavaScript
   - GitHub
