@@ -48,5 +48,3 @@ It incorperates the UH system and brings togther musically inclined people to cr
 </pre>
 
 <hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
